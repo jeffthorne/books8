@@ -1,0 +1,9 @@
+Flask
+Flask-Assets
+flask-sqlalchemy
+psycopg2-binary
+Flask-Bootstrap4
+Flask-Migrate
+requests
+PyYAML
+
